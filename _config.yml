@@ -1,10 +1,10 @@
-title:        GraphQL APIs
-url:          http://graphql.apievangelist.com
-raw_url: http://graphql.apievangelist.com/apis/
+title:        GDPR & APIs
+url:          http://gdpr.apievangelist.com
+raw_url: http://gdpr.apievangelist.com/apis/
 
 tag: Acquisitions
 
-logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/logo-api-evangelist-graphql.png
+logo: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-logo-gdpr.png
 logo_width:   80
 logo_bottom_padding: 10
 
