@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -425,5 +425,11 @@
     Day 0'
   url: https://cloudinary.com/blog/gdpr_the_what_the_when_the_why_and_how_cloudinary_is_preparing_for_day_0
   domain: cloudinary.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16091730ce8:1d2883d:541f3c40
+  item_date: "2017-12-25 22:01:03"
+  title: 'GDPR: A Practical Guide For Developers, Part 2'
+  url: https://dzone.com/articles/1917783
+  domain: dzone.com
   image: ""
 ...
