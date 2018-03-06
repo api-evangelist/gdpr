@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -449,5 +449,89 @@
   title: How to GDPR
   url: https://thenextweb.com/?p=1101075
   domain: thenextweb.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_1617b7c40f7:12fbfbd:e66afc8b
+  item_date: "2018-02-09 00:30:00"
+  title: Are You GDPR
+  url: https://auth0.com/blog/are-you-gdpr-ready
+  domain: auth0.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1617e522a5f:50483b4:7157a206
+  item_date: "2018-02-09 22:02:19"
+  title: The Year of the GDPR
+  url: https://dzone.com/articles/2033246
+  domain: dzone.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_1617f0e7f7d:16e763e:e66afc8b
+  item_date: "2018-02-10 01:30:36"
+  title: "Do\u2019s and dont\u2019s of sending emails under GDPR"
+  url: https://thenextweb.com/?p=1106532
+  domain: thenextweb.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_1618a6a21d5:2050bf:c8ea36f9
+  item_date: "2018-02-11 16:00:30"
+  title: "GDPR \u2013 Some data recovery implications (part 3)"
+  url: http://www.bmc.com/blogs/?p=11852
+  domain: www.bmc.com
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_16194a2fb15:7167dc9:541f3c40
+  item_date: "2018-02-14 06:00:00"
+  title: The GDPR Clock Is Running Out. Now What?
+  url: https://www.darkreading.com/partner-perspectives/iboss/the-gdpr-clock-is-running-out-now-what-/a/d-id/1331030
+  domain: www.darkreading.com
+  image: ""
+- curated_id: ZQTLjViBmHaIIqn2rojMd1cDp5whcNyr6F3eheqPe98=_161abe0404a:9128536:3c0bb656
+  item_date: "2018-02-18 18:04:35"
+  title: Data Management, Blockchain and GDPR Compliance
+  url: https://www.bbntimes.com/en/technology/data-management-blockchain-and-gdpr-compliance
+  domain: www.bbntimes.com
+  image: ""
+- curated_id: 91aBtyr52zeGKARCU1JlNQZkOhOt1haswjXPQa+W4y0=_161af023188:9481055:7157a206
+  item_date: "2018-02-18 21:00:00"
+  title: Ensuring Data Confidentiality, Integrity & Availability for GDPR
+  url: https://duo.com/blog/ensuring-data-confidentiality-integrity-and-availability-for-gdpr
+  domain: duo.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_161b351f462:9c280e7:3c0bb656
+  item_date: "2018-02-20 05:02:00"
+  title: GDPR Extortion Warning as Cyber
+  url: https://www.infosecurity-magazine.com:443/news/gdpr-extortion-warning-as/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_161b458c6bb:1b768b1:e66afc8b
+  item_date: "2018-02-20 09:50:37"
+  title: GDPR, A Price Worth Paying?
+  url: http://www.bmc.com/blogs/?p=11879
+  domain: www.bmc.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_161c4166ce4:b5e514a:7157a206
+  item_date: "2018-02-23 11:12:48"
+  title: Introduction to GDPR with Elasticsearch
+  url: https://www.elastic.co/blog/introduction-to-gdpr-with-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161d125b8b2:c77e60f:3c0bb656
+  item_date: "2018-02-25 22:01:12"
+  title: 'GDPR in the EU + Custom Apps: What You Need to Know'
+  url: https://dzone.com/articles/2077534
+  domain: dzone.com
+  image: ""
+- curated_id: 8f3TAh6XFlZnplMCBg+Wa0vcHSeVok5AXma2KhV7/9A=_161d1cbeb07:c6d2112:7157a206
+  item_date: "2018-02-26 02:35:39"
+  title: 'GDPR Compliance: The Challenges and Problems with Personal Data'
+  url: https://neo4j.com/?p=75392
+  domain: neo4j.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161e7fa9162:1c1347b:9aea0a7d
+  item_date: "2018-03-02 10:01:59"
+  title: GDPR and Cassandra
+  url: https://dzone.com/articles/2074955
+  domain: dzone.com
+  image: ""
+- curated_id: pJGm905BokLVZr/Pl24sMpd19eFuxZ/tV9dx1EzrkgY=_161f67ec40f:2e449d7:7c9981b6
+  item_date: "2018-03-05 06:00:17"
+  title: Preparing for the GDPR in the eleventh hour
+  url: https://sdtimes.com/?p=29579
+  domain: sdtimes.com
   image: ""
 ...
