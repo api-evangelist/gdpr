@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -533,5 +533,11 @@
   title: Preparing for the GDPR in the eleventh hour
   url: https://sdtimes.com/?p=29579
   domain: sdtimes.com
+  image: ""
+- curated_id: /XjtS/+KqME3icyckpmbdVHPPb0c6JwmNPkOxVYaD0w=_161fc3ba158:37ca7b1:9aea0a7d
+  item_date: "2018-03-06 07:36:55"
+  title: Secure Access to 100 AWS Accounts
+  url: https://segment.com/blog/secure-access-to-100-aws-accounts/
+  domain: segment.com
   image: ""
 ...
