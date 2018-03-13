@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -539,5 +539,11 @@
   title: Secure Access to 100 AWS Accounts
   url: https://segment.com/blog/secure-access-to-100-aws-accounts/
   domain: segment.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_1621b11aa8e:e459c4:76251cdd
+  item_date: "2018-03-12 01:30:00"
+  title: GDPR Effect?
+  url: https://auth0.com/blog/gdpr-effect
+  domain: auth0.com
   image: ""
 ...
