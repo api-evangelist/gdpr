@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -546,6 +546,12 @@
   url: https://auth0.com/blog/gdpr-effect
   domain: auth0.com
   image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1622ac67683:bb146:8e99ca10
+  item_date: "2018-03-15 10:47:50"
+  title: "All you need to know about GDPR \u2014 Explained"
+  url: https://medium.com/p/8e336a1987ea
+  domain: medium.com
+  image: ""
 - curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1622d573328:1066507:9f3b30f2
   item_date: "2018-03-15 22:02:30"
   title: 'GDPR: Your Hair Is Not on Fire'
@@ -557,5 +563,17 @@
   title: GDPR Violations Are Hiding in Your Database
   url: https://dzone.com/articles/2117600
   domain: dzone.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_1623822f030:c8951:a077e55f
+  item_date: "2018-03-18 01:02:27"
+  title: What the GDPR will mean for companies tracking location
+  url: https://thenextweb.com/?p=1112632
+  domain: thenextweb.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_16239503b3b:d833d:a077e55f
+  item_date: "2018-03-18 06:30:18"
+  title: Stop whining, GDPR is actually good for your business
+  url: https://thenextweb.com/?p=1113474
+  domain: thenextweb.com
   image: ""
 ...
