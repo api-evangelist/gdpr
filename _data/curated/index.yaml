@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -761,5 +761,35 @@
   title: Instapaper temporarily shuts down in Europe to comply with GDPR
   url: https://www.engadget.com/2018/05/24/instapaper-temporarily-shuts-down-europe-gdpr/
   domain: www.engadget.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_163984f65ea:41965d:c2c34441
+  item_date: "2018-05-25 05:28:00"
+  title: "Data privacy doesn\u2019t stop at the EU border"
+  url: https://auth0.com/blog/data-privacy-doesnt-stop-at-the-eu-border
+  domain: auth0.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_16398841e9c:603e8e:2835af05
+  item_date: "2018-05-25 07:08:00"
+  title: EU Privacy Activist Targets US with GDPR Rules
+  url: https://www.infosecurity-magazine.com:443/news/eu-privacy-activist-targets-us/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_1639857a23d:5b8104:2835af05
+  item_date: "2018-05-25 09:59:07"
+  title: "Europe is About to Lose the Global AI Race \u2013 Thanks to GDPR"
+  url: https://www.datainnovation.org/?p=8891
+  domain: www.datainnovation.org
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_1639852d4a2:5afab0:7cfe07d6
+  item_date: "2018-05-25 10:10:00"
+  title: 'GDPR Oddsmakers: Who, Where, When Will Enforcement Hit First?'
+  url: https://www.darkreading.com/risk/compliance/gdpr-oddsmakers-who-where-when-will-enforcement-hit-first-/d/d-id/1331898
+  domain: www.darkreading.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_16398aa60a8:638d73:3dd877af
+  item_date: "2018-05-25 11:48:05"
+  title: "I don\u2019t know why GDPR is so funny, but it is"
+  url: https://www.theverge.com/2018/5/25/17395210/gdpr-spam-funny-memes
+  domain: www.theverge.com
   image: ""
 ...
