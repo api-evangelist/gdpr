@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -791,6 +791,13 @@
   title: "I don\u2019t know why GDPR is so funny, but it is"
   url: https://www.theverge.com/2018/5/25/17395210/gdpr-spam-funny-memes
   domain: www.theverge.com
+  image: ""
+- curated_id: 2UxD8OC0eKosQ2ChvGTC/P2kya8wUvnW/Xrk1wWg4fA=_163b3bc70eb:2c24216:2835af05
+  item_date: "2018-05-30 15:37:18"
+  title: How Data Compliance Companies Are Turning To Web Crawlers To Take Advantage
+    of the GDPR Business Opportunity
+  url: https://blog.scrapinghub.com/?p=6031
+  domain: blog.scrapinghub.com
   image: ""
 - curated_id: 6G7BNWphFgp+rqhNHAAAbyeGQbB7u2OV9FA4ntOF++c=_163b616124f:2eec2c2:3dd877af
   item_date: "2018-05-31 05:00:27"
