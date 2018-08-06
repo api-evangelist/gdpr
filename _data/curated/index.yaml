@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -860,6 +860,12 @@
   url: https://www.engadget.com/2018/07/25/facebook-lost-1-million-monthly-active-users-to-gdpr/
   domain: www.engadget.com
   image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_164fbb8b3ff:f0c7a1:6f86c10b
+  item_date: "2018-08-02 10:02:01"
+  title: Why GDPR Compliance Is a Ready
+  url: https://dzone.com/articles/2359827
+  domain: dzone.com
+  image: ""
 - curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_164ffe020ca:153a742:6f86c10b
   item_date: "2018-08-02 16:15:00"
   title: 'European Union: Baby Steps, But No Giant Leap: PSD2 At Six Months Old'
@@ -871,5 +877,11 @@
   title: Can GDPR and Facebook Losses Boost Decentralized Social Media?
   url: https://medium.com/p/70b4f581ee4e
   domain: medium.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_1650a13366a:67b72a:98eb396b
+  item_date: "2018-08-05 05:30:26"
+  title: GDPR is eroding our privacy, not protecting it
+  url: https://thenextweb.com/?p=1141727
+  domain: thenextweb.com
   image: ""
 ...
