@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -895,5 +895,11 @@
   title: Almost a Third of Orgs Still Not Completely Prepared for GDPR
   url: https://www.infosecurity-magazine.com:443/news/orgs-not-prepared-gdpr/
   domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16581186d0d:2aa3df:3da9d93
+  item_date: "2018-08-28 08:11:41"
+  title: UK data protection complaints more than double under new GDPR rules
+  url: https://techcrunch.com/?p=1700159
+  domain: techcrunch.com
   image: ""
 ...
