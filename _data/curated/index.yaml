@@ -284,16 +284,16 @@
   url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
   domain: duo.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15fc26dfff3:15b2a:3c0bb656
@@ -714,6 +714,12 @@
   url: http://www.addthis.com/blog/?p=14425
   domain: www.addthis.com
   image: ""
+- curated_id: KBJdk9V9GG17yrfNg2zYtZPZ7Wz5EY343P6qphcyG60=_1634152ac69:551b75:3dd877af
+  item_date: "2018-05-08 12:51:34"
+  title: GDPR and Frequently Asked Questions for Publishers
+  url: https://www.addthis.com/blog/?p=14425
+  domain: www.addthis.com
+  image: ""
 - curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16357c8cb86:2665e64:3dd877af
   item_date: "2018-05-12 21:01:01"
   title: Using Static Analysis to Achieve ''Secure
@@ -901,5 +907,35 @@
   title: UK data protection complaints more than double under new GDPR rules
   url: https://techcrunch.com/?p=1700159
   domain: techcrunch.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1658193188c:c04894:4c71e4fe
+  item_date: "2018-08-28 10:01:02"
+  title: How GDPR Affects Site Users From the US
+  url: https://dzone.com/articles/2402140
+  domain: dzone.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_165d799eb15:2bb72f:4c71e4fe
+  item_date: "2018-09-14 02:29:00"
+  title: ICO Swamped with GDPR Breach Over
+  url: https://www.infosecurity-magazine.com:443/news/ico-swamped-with-gdpr-breach/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_165fb7bd779:18b2928:6f86c10b
+  item_date: "2018-09-21 02:21:00"
+  title: Vote Leave Analytics Firm Hit with GDPR Notice
+  url: https://www.infosecurity-magazine.com:443/news/vote-leave-analytics-firm-hit-with/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_166bf26a774:a132c:20735c59
+  item_date: "2018-10-29 02:26:55"
+  title: "Here\u2019s how face recognition tech can be GDPR compliant"
+  url: https://thenextweb.com/?p=1161760
+  domain: thenextweb.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_166c4e36147:2ab9d39:f7a2ccea
+  item_date: "2018-10-30 05:05:00"
+  title: GDPR Alert as Average ICO Fines Double in a Year
+  url: https://www.infosecurity-magazine.com:443/news/gdpr-alert-as-average-ico-fines/
+  domain: www.infosecurity-magazine.com
   image: ""
 ...
