@@ -1,13 +1,25 @@
+aid: gdpr
 name: GDPR
 description: The General Data Protection Regulation (GDPR) is a comprehensive data
   privacy law enacted by the European Union that governs how organizations collect,
   process, and store personal data of EU residents. It grants individuals significant
   rights over their data and imposes strict obligations on organizations, with substantial
   penalties for non-compliance.
-url: null
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-01-01'
+modified: '2026-03-16'
+position: Consumer
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/gdpr/refs/heads/main/apis.yml
+specificationVersion: '0.19'
 tags:
-- GDPR
-created: '2025'
-modified: '2025'
+  - GDPR
+  - Privacy
+  - Compliance
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
