@@ -11,12 +11,21 @@ The General Data Protection Regulation (GDPR) is a comprehensive data privacy la
 
 ## Tags:
 
- - GDPR, Privacy, Compliance
+ - GDPR, Privacy, Data Protection, Compliance
 
 ## Timestamps
 
 - **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Modified:** 2026-04-28 
+
+## Common Properties
+
+- [Regulation Text (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+- [European Data Protection Board](https://www.edpb.europa.eu)
+- [European Commission GDPR Portal](https://commission.europa.eu/law/law-topic/data-protection_en)
+- [GDPR.eu Resource Portal](https://gdpr.eu)
+- [Compliance Checklist](https://gdpr.eu/checklist/)
+- [GDPR FAQ](https://gdpr.eu/faq/)
 
 ## Maintainers
 
